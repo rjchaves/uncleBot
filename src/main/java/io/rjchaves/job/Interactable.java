@@ -1,4 +1,4 @@
-package io.rjchaves;
+package io.rjchaves.job;
 
 public interface Interactable {
     Jobs getJobs();

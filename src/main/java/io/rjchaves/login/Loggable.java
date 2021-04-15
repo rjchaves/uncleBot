@@ -6,4 +6,6 @@ public interface Loggable {
     void fillPassword(String password);
 
     void pressButton();
+
+    void selectWorld(Integer world);
 }
